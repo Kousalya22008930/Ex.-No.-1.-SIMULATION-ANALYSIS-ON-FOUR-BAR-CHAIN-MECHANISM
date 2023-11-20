@@ -53,10 +53,12 @@
 
 
 ## Output:
+### Name: KOUSALYA A.
+### Register Number: 212222230068
+![image](https://github.com/Kousalya22008930/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/119389108/3759a2a8-b0f7-458d-b9b0-5ce507551f77)
+![image](https://github.com/Kousalya22008930/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/119389108/c74d5f9f-7c3c-4b5d-aaeb-84ee6b816d71)
+![image](https://github.com/Kousalya22008930/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/119389108/baef35d3-6462-4186-b276-06541b927923)
 
-
-### Name:
-### Register Number: 
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
